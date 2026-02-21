@@ -38,7 +38,7 @@ Practicing DSA consistently helps in:
 
 ## 📈 My LeetCode Profile
 
-👉 https://leetcode.com/YOUR_USERNAME/
+👉 https://leetcode.com/u/abhishekyadav_01n/
 
 ---
 
@@ -48,19 +48,6 @@ Practicing DSA consistently helps in:
 2. Open any problem solution  
 3. Study the approach & code  
 4. Practice on LeetCode  
-
----
-
-## ⭐ Support
-
-If this repository helps you, consider giving it a ⭐!
-
----
-
-## 📬 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
