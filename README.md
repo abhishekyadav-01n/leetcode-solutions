@@ -1,6 +1,11 @@
-# LeetCode Solutions (Java)
+<h1 align="center">🧠 LeetCode Solutions — Java</h1>
 
-Collection of Java implementations for LeetCode problems.
+<p align="center">
+  A collection of clean and optimized Java solutions to LeetCode problems
+</p>
 
-Maintained for continuous practice and coding interview preparation.
-Each file corresponds to one problem.
+<p align="center">
+  Maintained for regular practice and coding interview preparation
+</p>
+
+---
