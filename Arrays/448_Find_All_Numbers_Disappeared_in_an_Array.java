@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-public class Find_All_Numbers_Disappeared_in_an_Array {
+class Find_All_Numbers_Disappeared_in_an_Array {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         int n = nums.length;
