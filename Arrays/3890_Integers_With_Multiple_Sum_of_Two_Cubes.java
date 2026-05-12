@@ -15,7 +15,6 @@ class Solution {
                 map.put(sum, map.getOrDefault(sum, 0) + 1);
             }
         }
-
         List<Integer> result = new ArrayList<>();
 
         for (int key : map.keySet()) {
