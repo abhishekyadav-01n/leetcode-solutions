@@ -47,7 +47,6 @@ class Solution {
                 l = pivotIdx + 1;
             }
         }
-
         return nums[pivotIdx];
     }
 }
