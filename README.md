@@ -58,6 +58,7 @@ Practicing DSA consistently helps in:
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -67,4 +68,20 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
