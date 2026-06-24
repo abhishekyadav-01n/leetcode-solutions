@@ -59,12 +59,14 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,5 +93,6 @@ Practicing DSA consistently helps in:
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
