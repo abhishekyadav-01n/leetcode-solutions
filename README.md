@@ -59,10 +59,12 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+| [0283-move-zeroes](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
