@@ -66,6 +66,7 @@ Practicing DSA consistently helps in:
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -112,4 +113,12 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
