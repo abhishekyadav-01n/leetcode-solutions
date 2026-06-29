@@ -59,6 +59,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -121,4 +122,12 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
