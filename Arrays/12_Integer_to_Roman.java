@@ -11,7 +11,6 @@ class Solution {
             "C", "XC", "L", "XL",
             "X", "IX", "V", "IV", "I"
         };
-        
         StringBuilder result = new StringBuilder();
         
         for (int i = 0; i < values.length; i++) {
