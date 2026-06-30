@@ -88,6 +88,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Practicing DSA consistently helps in:
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
