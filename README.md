@@ -87,6 +87,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
+| [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Practicing DSA consistently helps in:
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
