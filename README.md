@@ -67,6 +67,7 @@ Practicing DSA consistently helps in:
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -107,6 +108,7 @@ Practicing DSA consistently helps in:
 | [0088-merge-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,8 +137,13 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
