@@ -58,6 +58,7 @@ Practicing DSA consistently helps in:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
@@ -112,6 +113,7 @@ Practicing DSA consistently helps in:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
