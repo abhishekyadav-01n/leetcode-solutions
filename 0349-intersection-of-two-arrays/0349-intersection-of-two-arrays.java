@@ -3,6 +3,10 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         Set<Integer> ans = new HashSet<>();
 
+        if (nums1.length > nums2.length) {
+            return intersection(nums2, nums1);
+        }
+
         for(int i : nums1){
             set.add(i);
         }
