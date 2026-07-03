@@ -91,12 +91,14 @@ Practicing DSA consistently helps in:
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -140,6 +142,7 @@ Practicing DSA consistently helps in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
