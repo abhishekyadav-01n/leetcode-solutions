@@ -73,6 +73,7 @@ Practicing DSA consistently helps in:
 | [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,4 +160,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
