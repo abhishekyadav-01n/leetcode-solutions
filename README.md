@@ -95,6 +95,7 @@ Practicing DSA consistently helps in:
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3110-score-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
