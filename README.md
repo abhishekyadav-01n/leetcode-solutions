@@ -164,4 +164,5 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
