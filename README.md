@@ -70,6 +70,7 @@ Practicing DSA consistently helps in:
 | [0350-intersection-of-two-arrays-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -140,6 +141,7 @@ Practicing DSA consistently helps in:
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
 ## Dynamic Programming
 |  |
