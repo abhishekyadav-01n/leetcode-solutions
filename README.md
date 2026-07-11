@@ -98,6 +98,7 @@ Practicing DSA consistently helps in:
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3110-score-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Bit Manipulation
 |  |
 | ------- |
