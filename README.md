@@ -59,6 +59,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,13 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
