@@ -77,8 +77,13 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
