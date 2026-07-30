@@ -66,6 +66,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Practicing DSA consistently helps in:
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -101,4 +103,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
