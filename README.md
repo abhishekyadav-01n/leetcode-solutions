@@ -109,15 +109,18 @@ Practicing DSA consistently helps in:
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Game Theory
 |  |
 | ------- |
