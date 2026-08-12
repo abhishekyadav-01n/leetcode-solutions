@@ -66,6 +66,7 @@ Practicing DSA consistently helps in:
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Knapsack Problem
 |  |
@@ -186,4 +188,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
