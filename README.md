@@ -68,6 +68,7 @@ Practicing DSA consistently helps in:
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -176,6 +177,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
