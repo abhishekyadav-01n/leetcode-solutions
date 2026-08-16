@@ -67,6 +67,7 @@ Practicing DSA consistently helps in:
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ Practicing DSA consistently helps in:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Practicing DSA consistently helps in:
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -124,6 +127,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -154,6 +158,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +203,16 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
