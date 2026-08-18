@@ -235,4 +235,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
