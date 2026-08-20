@@ -11,8 +11,24 @@ class Solution {
             char ch1 = word1.charAt(i);
             char ch2 = word2.charAt(j);
 
-            if(ch1 == ch2){
-                if( (word1.substring(i) ).compareTo(word2.substring(j)) >= 0){
+            if(ch1 < ch2){
+                sb.append(ch2);
+                j++;
+            }
+            else if(ch1 > ch2){
+                sb.append(ch1);
+                i++;
+            }
+            else{
+                int x = i;
+                int y = j;
+
+                while(x < n1 && y < n2 && word1.charAt(x) == word2.charAt(y)){
+                    x++;
+                    y++;
+                }
+
+                if(y == n2 || (x < n1 && word1.charAt(x) > word2.charAt(y))){
                     sb.append(ch1);
                     i++;
                 }
@@ -20,14 +36,6 @@ class Solution {
                     sb.append(ch2);
                     j++;
                 }
-            }
-            else if(ch1 < ch2){
-                sb.append(ch2);
-                j++;
-            }
-            else{
-                sb.append(ch1);
-                i++;
             }
         }
         while(i < n1){
