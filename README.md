@@ -60,6 +60,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
@@ -79,6 +80,7 @@ Practicing DSA consistently helps in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
@@ -240,6 +242,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 ## Binary Search
@@ -266,4 +269,12 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
