@@ -58,6 +58,7 @@ Practicing DSA consistently helps in:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
@@ -100,6 +101,7 @@ Practicing DSA consistently helps in:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -234,6 +236,7 @@ Practicing DSA consistently helps in:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 ## Binary Search
