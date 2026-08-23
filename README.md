@@ -60,6 +60,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,6 +107,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -242,6 +244,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
