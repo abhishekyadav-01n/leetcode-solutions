@@ -79,6 +79,7 @@ Practicing DSA consistently helps in:
 | [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -189,6 +190,7 @@ Practicing DSA consistently helps in:
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Knapsack Problem
 |  |
