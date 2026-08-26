@@ -66,6 +66,7 @@ Practicing DSA consistently helps in:
 | [0041-first-missing-positive](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
@@ -115,6 +116,7 @@ Practicing DSA consistently helps in:
 | [0016-3sum-closest](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -291,4 +293,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
