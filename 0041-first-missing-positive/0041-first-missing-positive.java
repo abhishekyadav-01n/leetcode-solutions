@@ -1,16 +1,18 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int n = nums.length;
-
-        int freq[] = new int[1000002];
         for(int i = 0; i<n ; i++){
-            if(nums[i] >= 0 && nums[i] <= 100000){
-                freq[nums[i]]++;
+            while(nums[i] > 0 && nums[i] <= n && nums[nums[i] - 1] != nums[i]){
+                int correctIdx = nums[i]-1;
+
+                int temp = nums[i];
+                nums[i] = nums[correctIdx];
+                nums[correctIdx] = temp;
             }
         }
-        for(int i = 1; i < 100002 ; i++){
-            if(freq[i] == 0) return i;
+        for(int i = 0; i<n ; i++){
+            if(nums[i] != i+1) return i+1;
         }
-        return -1;
+        return n+1;
     }
 }
