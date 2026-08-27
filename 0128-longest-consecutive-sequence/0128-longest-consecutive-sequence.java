@@ -1,28 +1,25 @@
-class Solution {
+class Solution { //brute force
     public int longestConsecutive(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        int n = nums.length;
+        if(n == 0) return 0;
 
-        for(int num : nums){
-            pq.add(num);
-        }
+        Arrays.sort(nums);
 
-        int len = 0;
-        int maxLen = 0;
-        int prev = 0;
+        int len =  1;
+        int maxLen = 1;
 
-        while(!pq.isEmpty()){
-            int num = pq.poll();
-            if(len == 0){
-                prev = num;
+        for(int i = 1 ; i<n ; i++){
+            if(nums[i] == nums[i-1]){
+                continue;
+            }
+            else if(nums[i] - 1 == nums[i-1]){
+                len++;
+            }
+            else{
                 len = 1;
             }
-            else if(prev == num) continue;
-            else if(prev == num-1) len++;
-            else len = 1;
-
-            prev = num;
-
-            maxLen = Math.max(len, maxLen);
+            
+            maxLen = Math.max(maxLen, len);
         }
         return maxLen;
     }
