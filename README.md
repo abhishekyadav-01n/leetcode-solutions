@@ -106,6 +106,7 @@ Practicing DSA consistently helps in:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
@@ -192,6 +193,7 @@ Practicing DSA consistently helps in:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -237,6 +239,7 @@ Practicing DSA consistently helps in:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
