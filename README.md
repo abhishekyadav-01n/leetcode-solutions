@@ -68,6 +68,7 @@ Practicing DSA consistently helps in:
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -192,6 +193,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0041-first-missing-positive](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -297,4 +299,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
