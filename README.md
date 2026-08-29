@@ -73,6 +73,7 @@ Practicing DSA consistently helps in:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -277,6 +278,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
