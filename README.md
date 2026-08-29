@@ -63,6 +63,7 @@ Practicing DSA consistently helps in:
 | [0016-3sum-closest](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -273,6 +274,7 @@ Practicing DSA consistently helps in:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
