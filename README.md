@@ -87,6 +87,7 @@ Practicing DSA consistently helps in:
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -296,6 +297,7 @@ Practicing DSA consistently helps in:
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
