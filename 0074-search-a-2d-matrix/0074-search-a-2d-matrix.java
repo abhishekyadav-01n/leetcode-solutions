@@ -13,12 +13,14 @@ class Solution {
             int col = mid % cols;
 
             int value = matrix[row][col];
-
             if(value == target) return true;
-            else if(value > target) right = mid-1;
-            else left = mid+1;
+            else if( value < target ){
+                left = mid+1;
+            }
+            else{
+                right = mid-1;
+            }
         }
-
         return false;
     }
 }
