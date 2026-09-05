@@ -1,34 +1,34 @@
 class Solution {
-    public boolean canSplit(int nums[], int k , long maxSum){
+    public boolean canSplit(int nums[], int k , int maxSum){
         int split = 1;
-        long sum = 0;
+        int currSum = 0;
 
         for(int num : nums){
-            if(sum + num > maxSum){
+            if(currSum + num > maxSum){
                 split++;
-                sum = 0;
+                currSum = 0;
             }
-            sum += num;
+            currSum += num;
         }
         return split <= k;
     }
     public int splitArray(int[] nums, int k) {
         int left = 0;
-        long right = 0;
+        int right = 0;
 
         for(int num : nums){
-            left = Math.max(left , num);
+            left = Math.max(num , left);
             right += num;
         }
 
         while(left < right){
-            long mid = left + (right - left) / 2;
+            int mid = left + (right - left) / 2;
 
             if(canSplit(nums , k , mid)){
                 right = mid;
             }
             else{
-                left =(int) mid+1;
+                left = mid+1;
             }
         }
         return left;
