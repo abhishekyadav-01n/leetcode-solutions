@@ -9,7 +9,8 @@ class Solution {
             }
             else if(num <= second){
                 second = num;
-            }else{
+            }
+            else{
                 return true;
             }
         }
