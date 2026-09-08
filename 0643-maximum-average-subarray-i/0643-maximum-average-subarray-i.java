@@ -7,13 +7,11 @@ class Solution {
             sum += nums[i];
         }
 
-        int left = 0;
         double maxAvg = sum / k;
 
         for(int i = k; i<n ; i++){
             sum += nums[i];
-            sum -= nums[left];
-            left++;
+            sum -= nums[i-k];
             maxAvg = Math.max(maxAvg , sum / k);
         }
         return maxAvg;
