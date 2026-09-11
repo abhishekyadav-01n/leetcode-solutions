@@ -4,21 +4,21 @@ class Solution {
         int right = 0;
 
         for(int num : piles){
-            right = Math.max(num , right);
+            right = Math.max(right , num);
         }
 
         while(left < right){
             int mid = left + (right - left) / 2;
 
             long hours = 0;
-            for(int pile : piles){
-                hours += (pile + mid -1) / mid;
+            for(int num : piles){
+                hours += (num + mid - 1) / mid;
             }
-            if(hours <= h){
+            if(hours <= h ){
                 right = mid;
             }
             else{
-                left = mid + 1;
+                left = mid+1;
             }
         }
         return left;
