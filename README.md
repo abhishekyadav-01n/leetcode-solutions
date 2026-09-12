@@ -97,6 +97,7 @@ Practicing DSA consistently helps in:
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -237,6 +238,7 @@ Practicing DSA consistently helps in:
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -374,6 +376,7 @@ Practicing DSA consistently helps in:
 | [0054-spiral-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -386,6 +389,7 @@ Practicing DSA consistently helps in:
 | [0410-split-array-largest-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
