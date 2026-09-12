@@ -96,6 +96,7 @@ Practicing DSA consistently helps in:
 | [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -192,6 +193,7 @@ Practicing DSA consistently helps in:
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -240,6 +242,7 @@ Practicing DSA consistently helps in:
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -292,6 +295,7 @@ Practicing DSA consistently helps in:
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Minimax
