@@ -137,6 +137,7 @@ Practicing DSA consistently helps in:
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -237,6 +238,7 @@ Practicing DSA consistently helps in:
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -287,6 +289,7 @@ Practicing DSA consistently helps in:
 | [0239-sliding-window-maximum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -312,6 +315,7 @@ Practicing DSA consistently helps in:
 | [0018-4sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 ## Binary Search
