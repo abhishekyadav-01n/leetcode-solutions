@@ -364,6 +364,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -402,4 +403,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
