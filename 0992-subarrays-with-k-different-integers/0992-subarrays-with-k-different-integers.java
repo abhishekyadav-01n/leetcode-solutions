@@ -2,7 +2,6 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         return atMost(nums , k) - atMost(nums , k-1);
     }
-
     private int atMost(int nums[], int k){
         int n = nums.length;
 
