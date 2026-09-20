@@ -142,6 +142,7 @@ Practicing DSA consistently helps in:
 | [0076-minimum-window-substring](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -279,6 +280,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Practicing DSA consistently helps in:
 | [0084-largest-rectangle-in-histogram](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0739-daily-temperatures) |
