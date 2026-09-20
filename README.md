@@ -148,6 +148,7 @@ Practicing DSA consistently helps in:
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -409,6 +410,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
