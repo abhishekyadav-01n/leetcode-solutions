@@ -77,6 +77,7 @@ Practicing DSA consistently helps in:
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -185,6 +186,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0029-divide-two-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -387,6 +389,7 @@ Practicing DSA consistently helps in:
 | [0071-simplify-path](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
