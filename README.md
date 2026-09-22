@@ -185,6 +185,7 @@ Practicing DSA consistently helps in:
 | [0021-merge-two-sorted-lists](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -352,6 +353,7 @@ Practicing DSA consistently helps in:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
