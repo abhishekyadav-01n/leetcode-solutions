@@ -1,9 +1,10 @@
 class Solution {
     public int calculate(String s) {
-        int result = 0;
-        int last = 0;
-        int num = 0;
+        Stack<Integer> stack = new Stack<>();
+
         char operation = '+';
+        int result = 0;
+        int num = 0;
 
         for(int i = 0; i<s.length() ; i++){
             char ch = s.charAt(i);
@@ -12,25 +13,29 @@ class Solution {
                 num = num * 10 + ch - '0';
             }
 
-            if((!Character.isDigit(ch) && ch != ' ') || (i == s.length()-1 )){
+            if ((!Character.isDigit(ch) && ch != ' ') || (i == s.length()-1)){
                 if(operation == '+'){
-                    result += last;
-                    last = num;
+                    stack.push(num);
                 }
                 else if(operation == '-'){
-                    result += last;
-                    last = -num;
+                    stack.push(-num);
                 }
                 else if(operation == '*'){
-                    last = last * num;
+                    int prevNum = stack.pop();
+                    stack.push(prevNum * num);
                 }
                 else if(operation == '/'){
-                    last = last / num;
+                    int prevNum = stack.pop();
+                    stack.push(prevNum / num);
                 }
                 operation = ch;
                 num = 0;
             }
         }
-        return result + last;
+        while(!stack.isEmpty()){
+            result += stack.pop();
+        }
+
+        return result;
     }
 }
