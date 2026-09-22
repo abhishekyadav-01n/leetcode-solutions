@@ -180,11 +180,13 @@ Practicing DSA consistently helps in:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -289,6 +291,7 @@ Practicing DSA consistently helps in:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
