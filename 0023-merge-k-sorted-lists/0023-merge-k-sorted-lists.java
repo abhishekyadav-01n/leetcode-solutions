@@ -9,29 +9,27 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) { //Brute Force
+    public ListNode mergeKLists(ListNode[] lists) {
         ArrayList<Integer> list = new ArrayList<>();
 
-        for(ListNode head : lists){
-            ListNode current = head;
-            while(current != null){
-                list.add(current.val);
-                current = current.next;
+        for(ListNode node : lists){
+            ListNode curr = node;
+            while(curr != null){
+                list.add(curr.val);
+                curr = curr.next;
             }
         }
+
         Collections.sort(list);
 
-
         ListNode dummy = new ListNode(0);
-        ListNode current =  dummy;
+        ListNode curr = dummy;
 
-        for(int num : list){
-            current.next = new ListNode(num);
-            current = current.next;
+        for(int node : list){
+            curr.next = new ListNode(node);
+            curr = curr.next;
         }
 
         return dummy.next;
-
-
     }
 }
