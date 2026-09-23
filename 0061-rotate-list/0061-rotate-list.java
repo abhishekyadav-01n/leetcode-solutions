@@ -13,23 +13,24 @@ class Solution {
         if(head == null || head.next == null || k == 0){
             return head;
         }
-        ListNode tail = head;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode curr = head;
         int length = 1;
 
-        while(tail.next != null){
-            tail = tail.next;
+        while(curr.next != null){
+            curr = curr.next;
             length++;
         }
-        
+
         k = k % length;
         if(k == 0) return head;
+        curr.next = head;
 
-        tail.next = head;
-
-        int posNewTail = length - k;
         ListNode newTail = head;
-
-        for(int i = 1; i<posNewTail ; i++){
+        for(int i = 1 ; i<length - k ; i++){
             newTail = newTail.next;
         }
 
