@@ -9,23 +9,20 @@
  * }
  */
 class Solution {
-    public ListNode kthNode(ListNode current, int k){
-        while(current != null && k > 0){
-            current = current.next;
+    public ListNode getKthNode(ListNode curr , int k){
+        while(curr != null && k > 0){
+            curr = curr.next;
             k--;
         }
-        return current;
+        return curr;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head == null || head.next == null || k == 1) return head;
-
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode groupPrev = dummy;
 
         while(true){
-            ListNode kth = kthNode(groupPrev , k);
-
+            ListNode kth = getKthNode(groupPrev , k);
             if(kth == null) break;
 
             ListNode groupNext = kth.next;
@@ -43,8 +40,8 @@ class Solution {
             ListNode newGroupTail = groupPrev.next;
             groupPrev.next = kth;
             groupPrev = newGroupTail;
-
         }
+
         return dummy.next;
     }
 }
