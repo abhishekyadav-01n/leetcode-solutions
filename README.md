@@ -190,6 +190,7 @@ Practicing DSA consistently helps in:
 | [0061-rotate-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -305,6 +306,7 @@ Practicing DSA consistently helps in:
 | [0021-merge-two-sorted-lists](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
@@ -362,6 +364,7 @@ Practicing DSA consistently helps in:
 | [0061-rotate-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
@@ -410,6 +413,7 @@ Practicing DSA consistently helps in:
 | [0071-simplify-path](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
