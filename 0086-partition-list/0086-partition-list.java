@@ -10,13 +10,14 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode lessDummy = new ListNode(0);
-        ListNode greaterDummy = new ListNode(0);
-
-        ListNode less = lessDummy;
-        ListNode greater = greaterDummy;
+        if(head == null || head.next == null ) return head;
+        ListNode lessNode = new ListNode(0);
+        ListNode higherNode = new ListNode(0);
 
         ListNode curr = head;
+
+        ListNode less = lessNode;
+        ListNode high = higherNode;
 
         while(curr != null){
             if(curr.val < x){
@@ -24,14 +25,15 @@ class Solution {
                 less = less.next;
             }
             else{
-                greater.next = curr;
-                greater = greater.next;
+                high.next = curr;
+                high = high.next;
             }
             curr = curr.next;
         }
-        greater.next = null;
-        less.next = greaterDummy.next;
 
-        return lessDummy.next;
+        less.next = higherNode.next;
+        high.next = null;
+
+        return lessNode.next;
     }
 }
