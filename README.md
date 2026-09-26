@@ -195,6 +195,7 @@ Practicing DSA consistently helps in:
 | [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -494,4 +496,8 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
