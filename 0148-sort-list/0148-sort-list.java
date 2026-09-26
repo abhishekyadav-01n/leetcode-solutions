@@ -9,48 +9,68 @@
  * }
  */
 class Solution {
-    public ListNode mergeNode(ListNode a, ListNode b){
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
+    public ListNode merge(ListNode l1, ListNode l2, ListNode prev){
+        ListNode curr = prev;
 
-        while(a != null && b != null){
-            if(a.val <= b.val){
-                tail.next = a;
-                a = a.next;
+        while(l1 != null && l2 != null){
+            if(l1.val <= l2.val){
+                curr.next = l1;
+                l1 = l1.next;
             }
             else{
-                tail.next = b;
-                b = b.next;
+                curr.next = l2;
+                l2 = l2.next;
             }
-            tail = tail.next;
+            curr = curr.next;
         }
 
-        if(a != null){
-            tail.next = a;
-        }
-        else{
-            tail.next = b;
+        curr.next = (l1 != null) ? l1 : l2;
+
+        while(curr.next != null){
+            curr = curr.next;
         }
 
-        return dummy.next;
+        return curr;
+    }
+    public ListNode split(ListNode head, int size){
+        if(head == null) return null;
+
+        for(int i = 1; i<size && head.next != null ; i++){
+            head = head.next;
+        }
+
+        ListNode second = head.next;
+        head.next = null;
+
+        return second;
     }
     public ListNode sortList(ListNode head) {
+
         if(head == null || head.next == null) return head;
 
-        ListNode slow = head;
-        ListNode fast = head.next;
+        int n = 0;
+        ListNode curr = head;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        while(curr != null){
+            n++;
+            curr = curr.next;
         }
 
-        ListNode mid = slow.next;
-        slow.next = null;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
+        for(int size = 1; size < n; size *= 2){
+            ListNode prev = dummy;
+            curr = dummy.next;
 
-        return mergeNode(left , right);
+            while(curr != null){
+                ListNode left = curr;
+                ListNode right = split(left , size);
+                curr = split(right , size);
+
+                prev = merge(left , right , prev);
+            }
+        }
+        return dummy.next;
     }
 }
