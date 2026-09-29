@@ -404,6 +404,7 @@ Practicing DSA consistently helps in:
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -427,6 +428,7 @@ Practicing DSA consistently helps in:
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -481,6 +483,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Bubble Sort
 |  |
 | ------- |
