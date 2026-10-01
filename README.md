@@ -141,6 +141,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -419,6 +420,7 @@ Practicing DSA consistently helps in:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -493,6 +495,7 @@ Practicing DSA consistently helps in:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
