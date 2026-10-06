@@ -1,9 +1,15 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        stack = []
-        for i in range(len(s)):
-            if(len(stack) != 0 and stack[-1] == '(' and s[i] == ')'):
-                stack.pop()
+        open = 0
+        additions = 0
+
+        for ch in s:
+            if ch == '(':
+                open += 1
             else:
-                stack.append(s[i])
-        return len(stack)
+                if open > 0:
+                    open -= 1
+                else:
+                    additions += 1
+            
+        return open + additions
