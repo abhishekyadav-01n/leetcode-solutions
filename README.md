@@ -148,6 +148,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -213,6 +214,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -285,6 +287,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0076-minimum-window-substring) |
