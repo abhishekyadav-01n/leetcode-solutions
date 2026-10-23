@@ -4,7 +4,9 @@ class Solution:
         dp = [0] * n
         dp[0] = 1
 
-        i2 = i3 = i5 = 0
+        i2 = 0
+        i3 = 0
+        i5 = 0
 
         for i in range(1, n):
             next2 = dp[i2] * 2
