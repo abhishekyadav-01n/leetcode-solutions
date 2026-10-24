@@ -4,8 +4,10 @@ class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
         matrix = [[0] * n for _ in range(n)]
 
-        top, bottom = 0, n - 1
-        left, right = 0, n - 1
+        top = 0
+        bottom = n - 1
+        left = 0
+        right = n - 1
         num = 1
 
         while top <= bottom and left <= right:
