@@ -32,7 +32,6 @@ class Solution {
                 if(node.left != null) queue.offer(node.left);
                 if(node.right != null ) queue.offer(node.right);
             }
-
             result.add(level);
         }
         return result;
