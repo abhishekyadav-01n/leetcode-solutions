@@ -112,6 +112,7 @@ Practicing DSA consistently helps in:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -277,6 +278,7 @@ Practicing DSA consistently helps in:
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Practicing DSA consistently helps in:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,6 +497,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -503,6 +507,7 @@ Practicing DSA consistently helps in:
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
