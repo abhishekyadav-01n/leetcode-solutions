@@ -164,6 +164,7 @@ Practicing DSA consistently helps in:
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -279,6 +280,7 @@ Practicing DSA consistently helps in:
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Practicing DSA consistently helps in:
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -297,6 +300,7 @@ Practicing DSA consistently helps in:
 | [0104-maximum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -311,6 +315,7 @@ Practicing DSA consistently helps in:
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -550,6 +555,7 @@ Practicing DSA consistently helps in:
 | ------- |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bubble Sort
 |  |
 | ------- |
