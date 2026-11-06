@@ -16,7 +16,7 @@ public class Codec {
 
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        sb.append(root.val+"");
+        sb.append(root.val);
         sb.append(",");
 
         while(!q.isEmpty()){
@@ -27,7 +27,7 @@ public class Codec {
 
                 if(node.left != null){
                     q.add(node.left);
-                    sb.append(node.left.val+"");
+                    sb.append(node.left.val);
                     sb.append(",");
                 }
                 else{
@@ -36,7 +36,7 @@ public class Codec {
                 }
                 if(node.right != null){
                     q.add(node.right);
-                    sb.append(node.right.val+"");
+                    sb.append(node.right.val);
                     sb.append(",");
                 }
                 else{
@@ -51,7 +51,7 @@ public class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if(data == "") return null;
+        if(data.isEmpty()) return null;
         String arr[] = data.split(",");
 
         TreeNode root = new TreeNode(Integer.parseInt(arr[0]));
@@ -66,27 +66,19 @@ public class Codec {
             for(int i = 0; i<size ; i++){
                 TreeNode node = q.poll();
 
-                if(!arr[idx].equals("null")){
+                if(idx < arr.length && !arr[idx].equals("null")){
                     TreeNode newNode = new TreeNode(Integer.parseInt(arr[idx]));
                     q.add(newNode);
                     node.left = newNode;
-                    idx++;
                 }
-                else{
-                    node.left = null;
-                    idx++;
-                }
-
-                if(!arr[idx].equals("null")){
+                idx++;
+                
+                if(idx < arr.length && !arr[idx].equals("null")){
                     TreeNode newNode = new TreeNode(Integer.parseInt(arr[idx]));
                     q.add(newNode);
                     node.right = newNode;
-                    idx++;
                 }
-                else{
-                    node.right = null;
-                    idx++;
-                }
+                idx++;
             }
         }
         return root;
