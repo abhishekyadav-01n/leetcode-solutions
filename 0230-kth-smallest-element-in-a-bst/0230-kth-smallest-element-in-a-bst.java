@@ -24,8 +24,8 @@ class Solution {
         if(root == null) return;
 
         inorder(root.left , k);
-        count++;
 
+        count++;
         if(count == k){
             ans = root.val;
             return;
