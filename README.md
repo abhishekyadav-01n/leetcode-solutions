@@ -286,6 +286,7 @@ Practicing DSA consistently helps in:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -332,6 +333,7 @@ Practicing DSA consistently helps in:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -624,4 +626,5 @@ Practicing DSA consistently helps in:
 | [0098-validate-binary-search-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
