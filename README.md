@@ -288,6 +288,7 @@ Practicing DSA consistently helps in:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -304,6 +305,7 @@ Practicing DSA consistently helps in:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -317,6 +319,7 @@ Practicing DSA consistently helps in:
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -338,6 +341,7 @@ Practicing DSA consistently helps in:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Game Theory
 |  |
