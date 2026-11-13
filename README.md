@@ -215,6 +215,7 @@ Practicing DSA consistently helps in:
 | [0061-rotate-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0148-sort-list) |
@@ -282,6 +283,7 @@ Practicing DSA consistently helps in:
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -299,6 +301,7 @@ Practicing DSA consistently helps in:
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -316,6 +319,7 @@ Practicing DSA consistently helps in:
 | [0104-maximum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
@@ -335,6 +339,7 @@ Practicing DSA consistently helps in:
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
