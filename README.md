@@ -165,6 +165,7 @@ Practicing DSA consistently helps in:
 | [0076-minimum-window-substring](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -387,6 +388,7 @@ Practicing DSA consistently helps in:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -613,6 +615,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bubble Sort
@@ -669,4 +672,8 @@ Practicing DSA consistently helps in:
 | [0099-recover-binary-search-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
