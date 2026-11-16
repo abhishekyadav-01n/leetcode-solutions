@@ -1,20 +1,20 @@
 class Solution {
     public String digitSum(String s, int k) {
-        if(k == 1 || s.length() <= k) return s;
-        
+
+        if (s.length() <= k) return s;
 
         StringBuilder sb = new StringBuilder();
-        int sum = 0;
 
-        for(int i = 0; i<s.length() ; i++){
-            if(i > 0 && i % k == 0){
-                sb.append(sum);
-                sum = 0;
+        for (int i = 0; i < s.length(); i += k) {
+            int sum = 0;
+
+            for (int j = i; j < Math.min(i + k, s.length()); j++) {
+                sum += s.charAt(j) - '0';
             }
-            sum += Integer.parseInt(s.charAt(i)+"");
-            if(i == s.length()-1) sb.append(sum);
+
+            sb.append(sum);
         }
-        if(sb.length() > k) return digitSum(sb.toString() , k);
-        return sb.toString();
+
+        return digitSum(sb.toString(), k);
     }
 }
