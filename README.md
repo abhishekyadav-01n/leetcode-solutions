@@ -181,6 +181,7 @@ Practicing DSA consistently helps in:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1754-largest-merge-of-two-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
