@@ -99,6 +99,7 @@ Practicing DSA consistently helps in:
 | [0561-array-partition](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@ Practicing DSA consistently helps in:
 | [0424-longest-repeating-character-replacement](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0648-replace-words) |
 | [0856-score-of-parentheses](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -406,6 +408,7 @@ Practicing DSA consistently helps in:
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0648-replace-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -692,4 +695,5 @@ Practicing DSA consistently helps in:
 | [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0648-replace-words](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
