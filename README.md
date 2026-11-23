@@ -72,6 +72,7 @@ Practicing DSA consistently helps in:
 | [0056-merge-intervals](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -165,6 +166,7 @@ Practicing DSA consistently helps in:
 | [0049-group-anagrams](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -281,6 +283,7 @@ Practicing DSA consistently helps in:
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -315,6 +318,7 @@ Practicing DSA consistently helps in:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0100-same-tree) |
@@ -602,6 +606,7 @@ Practicing DSA consistently helps in:
 | [0048-rotate-image](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
