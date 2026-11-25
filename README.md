@@ -85,6 +85,7 @@ Practicing DSA consistently helps in:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -333,6 +334,7 @@ Practicing DSA consistently helps in:
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -356,6 +358,7 @@ Practicing DSA consistently helps in:
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -604,6 +607,7 @@ Practicing DSA consistently helps in:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -613,6 +617,7 @@ Practicing DSA consistently helps in:
 | [0074-search-a-2d-matrix](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/yadavabhishek001/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
