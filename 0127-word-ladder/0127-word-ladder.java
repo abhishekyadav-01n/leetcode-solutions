@@ -1,42 +1,53 @@
-class Solution {
+class Solution { // bidirectional bfs
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> set = new HashSet<>(wordList);
+        HashSet<String> set = new HashSet<>(wordList);
+
         if(!set.contains(endWord)) return 0;
 
-        Queue<String> q = new LinkedList<>();
-        q.add(beginWord);
+        HashSet<String> beginSet = new HashSet<>();
+        HashSet<String> endSet = new HashSet<>();
 
-        int length = 1;
+        beginSet.add(beginWord);
+        endSet.add(endWord);
+        set.remove(beginWord);
+        set.remove(endWord);
 
-        while(!q.isEmpty()){
-            int size = q.size();
+        int ans = 1;
 
-            for(int i = 0; i<size ; i++){
-                String word = q.poll();
+        while(!beginSet.isEmpty() && !endSet.isEmpty()){
+            if(beginSet.size() > endSet.size()){
+                HashSet<String> temp = beginSet;
+                beginSet = endSet;
+                endSet = temp;
+            }
 
-                if(word.equals(endWord)){
-                    return length;
-                }
+            HashSet<String> nextLevel = new HashSet<>();
 
+            for(String word : beginSet){
+                
                 char arr[] = word.toCharArray();
 
-                for(int j = 0; j<arr.length ; j++){
-                    char original = arr[j];
+                for(int i = 0; i<arr.length ; i++){
+                    char original = arr[i];
 
-                    for(char c = 'a' ; c <= 'z' ; c++){
-                        arr[j] = c;
+                    for(char ch = 'a' ;ch<='z' ; ch++){
+                        arr[i] = ch;
 
                         String newWord = new String(arr);
+                        if(endSet.contains(newWord)){
+                            return ans+1;
+                        }
 
                         if(set.contains(newWord)){
-                            q.add(newWord);
+                            nextLevel.add(newWord);
                             set.remove(newWord);
                         }
                     }
-                    arr[j] = original;
+                    arr[i] = original;
                 }
             }
-            length++;
+            ans++;
+            beginSet = nextLevel;
         }
         return 0;
     }
